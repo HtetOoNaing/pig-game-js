@@ -10,4 +10,6 @@
 
 ### Output Result
 
-![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/dice-1.png?raw=true)
+![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/start.png?raw=true)
+![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/ongame.png?raw=true)
+![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/winner.png?raw=true)
