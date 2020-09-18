@@ -1,6 +1,8 @@
 # pig-game-js
 
-## GAME RULES:
+**This game was developed using pure javascript (ES6+)**
+
+### Game Rules
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -13,3 +15,8 @@
 ![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/start.png?raw=true)
 ![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/ongame.png?raw=true)
 ![alt text](https://github.com/HtetOoNaing/pig-game-js/blob/master/winner.png?raw=true)
+
+### Resource
+
+**JONAS.IO**
+**SCHMEDTMANN**
