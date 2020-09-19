@@ -19,5 +19,7 @@
 ### Resource
 
 **JONAS.IO**
+
 **SCHMEDTMANN**
+
 the complete javascript course
